@@ -1,8 +1,8 @@
 import React, { useState } from 'react';
-import './App.css';
+//import './App.css';
 import Header from './components/Header';
 import About from './components/About';
-import Project from './components/Project';
+import Project from './components/Portfolio';
 import Contact from './components/Contact';
 import Resume from './components/Resume';
 import Footer from './components/Footer';
@@ -15,7 +15,7 @@ function App() {
     if (currentPage === 'About') {
       return <About />
     }
-    if (currentPage === 'Project') {
+    if (currentPage === 'Portfolio') {
       return <Project />
     }
     if (currentPage === 'Contact') {
@@ -29,7 +29,7 @@ function App() {
   const handlePageChange = (page) => setCurrentPage(page);
 
   return (
-    <div className="app-div">
+    <div className="className='flex justify-center mt-10 items-center">
       <Header currentPage={currentPage} handlePageChange={handlePageChange} />
       <main>
         {renderPage()}
