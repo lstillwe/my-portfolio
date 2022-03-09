@@ -37,6 +37,7 @@ function Portfolio(props) {
 
   return (
     <section className="portfolio">
+        <h2>Portfolio</h2>
          {images.map((image, i) => (
              <div className="span">
                 <img src={require(`../../assets/images/${i}.png`)} alt={image.alt}/>
