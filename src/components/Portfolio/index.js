@@ -25,7 +25,7 @@ function Portfolio(props) {
       alt: 'Budget Tracker',
       href: 'https://salty-cliffs-15729.herokuapp.com/',
       text: 'This application uses PWA techniques to allow for offline access and functionality. The user can add expenses and deposits to their budget with or without a connection.',
-      github: 'https://github.com/lstillwe/budget-trackerr'
+      github: 'https://github.com/lstillwe/budget-tracker'
     },
     {
       alt: 'Media Gems',
