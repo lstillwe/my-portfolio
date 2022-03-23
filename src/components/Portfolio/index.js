@@ -33,6 +33,13 @@ function Portfolio(props) {
       text: 'Media Gems is an application that allows authenticated users to select a streaming service and look at reviews for popular shows on that particular service. Users are able to add, edit, and delete any reviews that they have created.',
       github: 'https://github.com/lstillwe/media-gems'
     }
+    ,
+    {
+      alt: 'Pantry PROVision',
+      href: 'https://secure-river-27449.herokuapp.com/',
+      text: 'Pantry PROVision is a kitchen pantry tracking, mobile centric application. Users can login and create, update and delete items that they like to keep in stock in their pantry. They can update inventory counts when items are purchased or consumed.',
+      github: 'https://github.com/lstillwe/pantry-provision'
+    }
   ]
 
   return (
