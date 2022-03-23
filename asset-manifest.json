@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/my-portfolio/static/css/main.3b71fa40.css",
+    "main.js": "/my-portfolio/static/js/main.b7e4ae2c.js",
+    "static/js/787.128fc6e9.chunk.js": "/my-portfolio/static/js/787.128fc6e9.chunk.js",
+    "static/media/4.png": "/my-portfolio/static/media/4.e2691d1c961d462678c9.png",
+    "static/media/screen-shot.png": "/my-portfolio/static/media/screen-shot.dabd29d3dd8b66d61946.png",
+    "static/media/2.png": "/my-portfolio/static/media/2.0f0423b42be5a442f034.png",
+    "static/media/0.png": "/my-portfolio/static/media/0.15650e4400b82f38274a.png",
+    "static/media/3.png": "/my-portfolio/static/media/3.0bf3ad7d7d484849f0fc.png",
+    "static/media/1.png": "/my-portfolio/static/media/1.db69e63ff83724091686.png",
+    "static/media/lisa-resume.doc": "/my-portfolio/static/media/lisa-resume.48047fd3f65cece58201.doc",
+    "static/media/Stillwell_Lisa_Photo.jpeg": "/my-portfolio/static/media/Stillwell_Lisa_Photo.3c7b8e3b058e2534bf2e.jpeg",
+    "static/media/5.png": "/my-portfolio/static/media/5.70fa125018d0d6ce7b6f.png",
+    "static/media/Linkedin-logo.jpg": "/my-portfolio/static/media/Linkedin-logo.55822b9b3579ff28a259.jpg",
+    "index.html": "/my-portfolio/index.html",
+    "main.3b71fa40.css.map": "/my-portfolio/static/css/main.3b71fa40.css.map",
+    "main.b7e4ae2c.js.map": "/my-portfolio/static/js/main.b7e4ae2c.js.map",
+    "787.128fc6e9.chunk.js.map": "/my-portfolio/static/js/787.128fc6e9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3b71fa40.css",
+    "static/js/main.b7e4ae2c.js"
+  ]
+}
